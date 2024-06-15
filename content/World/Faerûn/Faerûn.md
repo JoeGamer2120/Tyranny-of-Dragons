@@ -1,7 +1,7 @@
-```
+---
 title: Faerûn
-publish: true
-```
+publish: "true"
+---
 # Factions
 
 ## The Harpers
