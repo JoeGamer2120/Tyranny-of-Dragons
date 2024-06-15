@@ -1,5 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Tyranny of Dragons
+publish: "true"
 ---
 
 This is a blank Quartz installation.
