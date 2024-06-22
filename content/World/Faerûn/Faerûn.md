@@ -1,6 +1,6 @@
 ---
 title: Faerûn
-publish: "true"
+publish:
 ---
 
 # Factions
