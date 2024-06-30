@@ -1,0 +1,4 @@
+- [ ] Complete the values section for each faction
+- [ ] Brief context of Sword Coast relation to Thay
+- [ ] Basic History relevant to campaign
+- [ ] Publish v1
