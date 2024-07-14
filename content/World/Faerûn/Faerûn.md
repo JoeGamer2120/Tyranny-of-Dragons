@@ -2,5 +2,4 @@
 title: Faerûn
 publish:
 ---
-
 # Factions

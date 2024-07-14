@@ -13,8 +13,9 @@ An overview of [[Faerûn|Faerûn's]] factions and their goals. More information 
 
 ## Cults
 - [[Order of the Dragon]]
+- [[Red Wizards of Thay]]
 
 ## Misc Organizations
 - [[Metallic Dragons]]
-- [[Giants]]
+- [[Chromatic Dragons]]
 
