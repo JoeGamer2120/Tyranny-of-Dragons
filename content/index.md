@@ -14,3 +14,6 @@ This website is an overview for you the player. Your character may not know all 
 ## On the Forgotten Realms Wiki
 While this campaign takes place in the Forgotten Realms, don't assume that you can use the Forgotten Realms Wiki. It's a great resource but things may slightly vary to fit better with the narrative of the campaign. Be wary of using it for additional information.
 Additionally, the Forgotten Realms Wiki could provide spoilers to the campaign. 
+
+### Website Edition
+Website v1.0
