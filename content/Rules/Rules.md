@@ -8,3 +8,6 @@ publish: "true"
 - [[Lingering Injuries]]
 
 # Character Creation Rules
+- [[Character Creation]]
+- [[Feats]]
+- [[Point Buy]]
