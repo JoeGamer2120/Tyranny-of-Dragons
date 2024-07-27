@@ -1,3 +1,8 @@
+---
+title: Character Creation
+publish: "true"
+---
+
 # Rules for Character Creation
 For character creation, your character must adhere to the following rules. The DM has the final interpretation of these rules.
 1. Characters must be willing to be part of an adventuring group and work with other PCs. Concepts that require a PC to be a "lone wolf" must still abide by this rule.

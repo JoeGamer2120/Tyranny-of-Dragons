@@ -1,3 +1,8 @@
+---
+title: Point Buy
+publish: "true"
+---
+
 # Rules 
 Point buy is a simple way to create balanced stats while still giving players plenty of customization for their characters
 
