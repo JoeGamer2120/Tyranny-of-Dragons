@@ -8,8 +8,8 @@ For character creation, your character must adhere to the following rules. The D
 1. Characters must be willing to be part of an adventuring group and work with other PCs. Concepts that require a PC to be a "lone wolf" must still abide by this rule.
 2. Evil PCs are not allowed
 	1.  This does not mean that you must be a "good" character. You cannot be outright evil.
-3. Classes, races, spells, backgrounds, [[Feats|feats]], or other character components must be from the 2014 Players Handbook, Tasha's Cauldron of Everything, Xanathar's Guide to Everything, and/or Monsters of the Multiverse.
-	1. Races cannot have a fly speed
+3. Classes, races, spells, backgrounds, [[Feats|feats]], or other character components must be from the 2014 Players Handbook, Tasha's Cauldron of Everything, Xanathar's Guide to Everything. Monsters of the Multiverse and/or Sword Coast Adventurer's Guide.
+	1. Races cannot have a fly speed or climb speed.
 	2. DM reserve the right to ban certain builds even if they are technically published (ie. **NO** cheese builds).
 	3. DM reserves the right to ban any character components if it is believed to not fit the world or campaign.
 4. All characters will be created using [[Point Buy]]. If any aspect of your character requires rolling (eg Hit Points), the DM must be present.

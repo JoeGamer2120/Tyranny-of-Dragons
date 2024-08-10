@@ -19,6 +19,10 @@ Additionally, the Forgotten Realms Wiki could provide spoilers to the campaign.
 This website is being hosted from Github Pages with an associated Github repo. Do **NOT** look at the Github repo as it may contain files that you don't have access to (they have not been published). If they are not on the website, then there is a reason you can't see them. 
 
 ### Website Edition
+Website v1.02
+- Added additional material for [[Character Creation]]
+- Added [[Races of the Realms]]
+
 Website v1.01
 - Added Publish tag to [[Character Creation]], [[Feats]], and [[Point Buy]]
 
