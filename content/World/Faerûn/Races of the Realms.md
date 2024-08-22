@@ -6,9 +6,8 @@ publish: "true"
 Most, if not all of these races are based in the 2014 Player's Handbook. The Sword Coast Adventure's Guide expands on these races providing more subraces with unique histories tied to the Forgotten Realms and stats that reflect that sub race.
 These races are found more often in the lands of [[Faerûn]], hence why these are "common."
 
-> [!NOTE] More Information
-> These races and subraces are found in Sword Coast Adventure's Guide. If you wish to know more, feel free to ask me ~~or find the book online~~.
-
+> [!NOTE] Picking a Race
+> The reason for this list of races is because picking these will make background creation that much easier. These races are already native to the Sword Coast so they will have a tie to the world making you more involved in the world. This is why I **HIGHLY** recommend you pick a common race.
 
 ## Dwarves
 
@@ -81,3 +80,8 @@ These descendants can choose the drow's Drow Magic
 ## Half-Orcs
 
 ## Tieflings
+
+
+> [!NOTE] More Information
+> These races and subraces are found in Sword Coast Adventure's Guide. If you wish to know more, feel free to ask me ~~or find the book online~~.
+

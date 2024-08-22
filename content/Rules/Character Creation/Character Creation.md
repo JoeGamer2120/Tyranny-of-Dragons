@@ -17,6 +17,8 @@ For character creation, your character must adhere to the following rules. The D
 6. Characters are allowed/encouraged to have shared backstories and prior associations with each other. Multiple similar PCs are discouraged - work with your fellow players on bringing a unique character to the group.
 
 ## Additional Notes
+Please look at [[Races of the Realms]] to find what are some common races. These may be easier to play. Read the callout there too.
+
 You are allowed to research character builds, concepts, etc and work on putting a character together for a session 0 - this includes using the [[Point Buy]] for stats (calculations must be shown if done prior to session 0).
 
 If you need help coming up with a character, the DM will help you. If you already have an idea, that's fine, but the DM requires 100% disclosure and *approval*. 
