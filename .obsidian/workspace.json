@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Rules/Combat Rules/Lingering Injuries.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Rules/Combat Rules/Lingering Injuries.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Rules/Combat Rules/Lingering Injuries.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Rules/Combat Rules/Lingering Injuries.md"
+                "file": "content/index.md"
               }
             }
           }
@@ -148,42 +148,42 @@
   },
   "active": "736c4e706a0b009d",
   "lastOpenFiles": [
-    "content/Rules/Rules.md",
-    "content/To Do List.md",
+    "content/Rules/Character Creation/DM Guide.md",
     "content/index.md",
-    "content/z_Attachments",
+    "content/World/Faerûn/Sword Coast/Major Cities/Neverwinter.md",
+    "content/World/Faerûn/Sword Coast/Major Cities/Elturel.md",
     "content/World/Faerûn/Sword Coast/Major Cities/Waterdeep.md",
     "content/World/Faerûn/Sword Coast/Major Cities/Baldur's Gate.md",
     "content/World/Faerûn/Sword Coast/Sword Coast.md",
     "content/World/Faerûn/Sword Coast/Major Cities",
-    "content/World/Faerûn/Factions/_Overview of Factions.md",
     "content/World/Faerûn/Factions/Zhentarim.md",
-    "content/World/Faerûn/Factions/Red Wizards of Thay.md",
     "content/World/Faerûn/Factions/Order of the Gauntlet.md",
-    "content/World/Faerûn/Factions/Order of the Dragon.md",
+    "content/World/Faerûn/Factions/_Overview of Factions.md",
+    "content/World/Faerûn/Factions/Red Wizards of Thay.md",
     "content/World/Faerûn/Factions/Metallic Dragons.md",
     "content/World/Faerûn/Factions/Lords' Alliance.md",
+    "content/World/Faerûn/Factions/Order of the Dragon.md",
     "content/World/Faerûn/Factions/Harpers.md",
     "content/World/Faerûn/Factions/Emerald Enclave.md",
     "content/World/Faerûn/Factions/Chromatic Dragons.md",
+    "content/World/Faerûn/Races of the Realms.md",
+    "content/World/Faerûn/Thay",
     "content/World/Faerûn/Sword Coast",
     "content/World/Faerûn/Pantheon.md",
-    "content/World/Faerûn/Thay",
     "content/World/Faerûn/Faerûn.md",
     "content/World/Faerûn/Factions",
     "content/World/Faerûn",
     "content/World",
-    "content/Rules/Combat Rules/Lingering Injuries.md",
-    "content/Rules/Combat Rules/Critical Hits.md",
-    "content/Rules/Combat Rules/Bloodied Condition.md",
-    "content/Rules/Character Creation/Point Buy.md",
-    "content/Rules/Character Creation/Feats.md",
-    "content/Rules/Character Creation/Character Creation.md",
-    "content/Rules/Combat Rules",
-    "content/Rules/Character Creation",
-    "content/Rules",
     "content/DM Folder/Rules/Lingering Injuries Table.md",
-    "content/World/Faerûn/Sword Coast/test.md",
+    "content/DM Folder/Misc/Random Generators.md",
+    "content/DM Folder/Cities/Waterdeep -DM.md",
+    "content/DM Folder/Cities/Greenest.md",
+    "content/DM Folder/Cities/Baldur's Gate - DM.md",
+    "content/DM Folder/Rules",
+    "content/DM Folder/Misc",
+    "content/DM Folder/Cities",
+    "content/DM Folder",
+    "content/Characters/Syvnil.md",
     "public/static/og-image.png",
     "public/static/icon.png"
   ]
