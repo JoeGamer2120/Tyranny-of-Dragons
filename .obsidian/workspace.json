@@ -11,8 +11,12 @@
             "id": "736c4e706a0b009d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Rules/Combat Rules/Lingering Injuries.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Rules/Combat Rules/Lingering Injuries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Rules/Combat Rules/Lingering Injuries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/World/Faerûn/Factions/_Overview of Factions.md"
+                "file": "content/Rules/Combat Rules/Lingering Injuries.md"
               }
             }
           }
@@ -140,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6fd19a51131ffb31",
+  "active": "736c4e706a0b009d",
   "lastOpenFiles": [
+    "content/Rules/Rules.md",
     "content/To Do List.md",
     "content/index.md",
     "content/z_Attachments",
@@ -172,7 +179,6 @@
     "content/Rules/Character Creation/Point Buy.md",
     "content/Rules/Character Creation/Feats.md",
     "content/Rules/Character Creation/Character Creation.md",
-    "content/Rules/Rules.md",
     "content/Rules/Combat Rules",
     "content/Rules/Character Creation",
     "content/Rules",
