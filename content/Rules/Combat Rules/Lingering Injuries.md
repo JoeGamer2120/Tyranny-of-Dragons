@@ -47,24 +47,38 @@ The following spells are available to Clerics, Druids, Bards and Paladins
 
 ### Heal Minor Injury
 Level: 2nd
+
 Casting Time: 1 Action (Ritual) - If cast as an action, this spell leaves the caster temporarily drained. They gain 1 level of exhaustion, which is removed at the end of a long rest
+
 Range/Area: Touch
+
 Components: V,S,M (200gp of blessed oils, incense and bandages soaked in pure spring water, which the spell consumes when used)
+
 Duration: Instananeous
+
 School: Abjuration
+
 Attack/Save: None
+
 Effect:
 You touch a creature that is under the effect of an **Injury** that can be healed by this spell and remove it immediately
 
 
 ### Heal Greater Injury
 Level: 2nd
+
 Casting Time: 1 Action (Ritual) - If cast as an action, this spell leaves the caster temporarily drained. They gain 1 level of exhaustion, which is removed at the end of a long rest
+
 Range/Area: Touch
+
 Components: V,S,M (500gp of rare oils from monsters, powdered diamonds and holy water, which the spell consumes when used)
+
 Duration: Instananeous
+
 School: Abjuration
+
 Attack/Save: None
+
 Effect:
 You touch a creature that is under the effect of an **Injury** that can be healed by this spell and remove it immediately. This spell cannot regrow lost limbs, eyes or similar
 

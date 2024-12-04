@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Rules/Combat Rules/Lingering Injuries.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Rules/Combat Rules/Lingering Injuries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Rules/Combat Rules/Lingering Injuries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md"
+                "file": "content/Rules/Combat Rules/Lingering Injuries.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "736c4e706a0b009d",
   "lastOpenFiles": [
-    "content/Rules/Character Creation/DM Guide.md",
     "content/index.md",
+    "content/Rules/Character Creation/DM Guide.md",
     "content/World/Faerûn/Sword Coast/Major Cities/Neverwinter.md",
     "content/World/Faerûn/Sword Coast/Major Cities/Elturel.md",
     "content/World/Faerûn/Sword Coast/Major Cities/Waterdeep.md",
